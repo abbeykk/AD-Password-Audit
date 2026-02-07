@@ -87,6 +87,6 @@ This project demonstrates how security misconfigurations in Active Directory can
 ## Author
 Biodun - ICT Service Desk Analyst transitioning to Cybersecurity Operations
 
-## License\
-\
+## License
+
 This project is open source and available for educational and professional use.}
